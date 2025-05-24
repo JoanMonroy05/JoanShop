@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo de Lana Clásico",
+        "imagen": "img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo Impermeable Moderno",
+        "imagen": "img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo de Invierno Elegante",
+        "imagen": "img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 280000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo Casual de Algodón",
+        "imagen": "img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 220000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo Largo de Cuero",
+        "imagen": "img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 350000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Básica Blanca",
+        "imagen": "img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Negra Casual",
+        "imagen": "img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 55000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Deportiva Azul",
+        "imagen": "img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 60000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Estampada Juvenil",
+        "imagen": "img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta de Rayas Clásica",
+        "imagen": "img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 65000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Verde Militar",
+        "imagen": "img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 60000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Manga Larga",
+        "imagen": "img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta con Bolsillo",
+        "imagen": "img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 58000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón de Mezclilla Azul",
+        "imagen": "img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Chino Beige",
+        "imagen": "img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Deportivo Gris",
+        "imagen": "img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón de Vestir Negro",
+        "imagen": "img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Cargo Verde",
+        "imagen": "img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 130000
+    }
+]
